@@ -2,7 +2,7 @@
 -- DISCLAIMER
 -- The database schema (tables, relationships, and structure) was created by me.  
 -- The records (rows) were AI generated for educational purposes.  
--- This project is only an example of OTT data analysis and is not based on any real OTT platform, names, or images.  
+-- This project is only an example of OTT platform data analysis and it is not based on any real OTT platform, names, or images.  
 -- It is not affiliated with or endorsed by any official OTT platform.
 
 
